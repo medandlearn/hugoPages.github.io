@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meine Seite - Blog und Podcast</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Meine Seite - Blog und Podcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 May 2021 19:04:06 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creation Process</title>
+      <link>http://example.org/blog/2021_mai_01/</link>
+      <pubDate>Tue, 25 May 2021 19:04:06 +0200</pubDate>
+      
+      <guid>http://example.org/blog/2021_mai_01/</guid>
+      <description>Prozess zur Podcastseite Das Thema Castanet ist nicht ganz selbsterklärend. Daher wird hier probiert.
+ Der Parameter Author muss angepasst werden Die Hashtags sind zu entfernen In config.toml muss die authors- Liste angelegt sein:   [params.authors][params.authors.Matt]name	= &amp;quot;Matt Stratton&amp;quot;</description>
+    </item>
+    
+  </channel>
+</rss>
